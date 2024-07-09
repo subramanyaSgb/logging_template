@@ -15,9 +15,10 @@ def setup_logger():
     log_filename = f"logs/app_log_{datetime.now().strftime('%Y-%m-%d')}.log"
     handler = TimedRotatingFileHandler(
         log_filename,
+        # when="m",
         when="midnight",
         interval=1,
-        backupCount=0,  # Keep 0 backup files (delete old logs)
+        backupCount=1,  # Keep 0 backup files (delete old logs)
     )
 
     # Create a formatter that includes the filename

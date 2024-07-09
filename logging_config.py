@@ -23,7 +23,7 @@ def setup_logger():
     )
 
     # Create a formatter that includes the filename
-    formatter = logging.Formatter('%(asctime)s - %(filename)s - %(levelname)s - %(message)s')
+    formatter = logging.Formatter('%(asctime)s | %(filename)s | %(thread)d | %(threadName)s | [%(levelname)s] - %(message)s')
     handler.setFormatter(formatter)
 
     # Add the handler to the logger

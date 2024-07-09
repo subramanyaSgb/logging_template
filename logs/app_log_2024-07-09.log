@@ -1,0 +1,170 @@
+2024-07-09 15:22:38,642 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 0
+2024-07-09 15:22:38,642 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 1
+2024-07-09 15:22:38,642 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 2
+2024-07-09 15:22:38,642 | server.py | MainThread | [ERROR] - This is a debug message from server0.py
+2024-07-09 15:22:38,642 | server.py | MainThread | [INFO] - This is an info message from server.py
+2024-07-09 15:22:38,642 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 3
+2024-07-09 15:22:38,643 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 4
+2024-07-09 15:22:38,644 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 5
+2024-07-09 15:22:38,644 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 6
+2024-07-09 15:22:38,642 | server.py | MainThread | [INFO] - _____________________________________________
+2024-07-09 15:22:38,644 | main.py | MainThread | [ERROR] - This is a debug message from main.py
+2024-07-09 15:22:38,644 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 7
+2024-07-09 15:22:38,644 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 8
+2024-07-09 15:22:38,644 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 9
+2024-07-09 15:22:38,644 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 10
+2024-07-09 15:22:38,644 | main.py | MainThread | [INFO] - This is an info message from main.py
+2024-07-09 15:22:38,644 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 11
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 12
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 13
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 14
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 15
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 16
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 17
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 18
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 19
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 20
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 21
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 22
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 23
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 24
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 25
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 26
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 27
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 28
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 29
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 30
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 31
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 32
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 33
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 34
+2024-07-09 15:22:38,645 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 35
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 36
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 37
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 38
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 39
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 40
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 41
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 42
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 43
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 44
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 45
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 46
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 47
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 48
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 49
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 50
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 51
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 52
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 53
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 54
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 55
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 56
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 57
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 58
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 59
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 60
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 61
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 62
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 63
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 64
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 65
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 66
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 67
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 68
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 69
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 70
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 71
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 72
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 73
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 74
+2024-07-09 15:22:38,646 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 75
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 76
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 77
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 78
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 79
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 80
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 81
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 82
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 83
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 84
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 85
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 86
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 87
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 88
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 89
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 90
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 91
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 92
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 93
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 94
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 95
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 96
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 97
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 98
+2024-07-09 15:22:38,647 | server.py | Thread-1 | [INFO] - Test_1 Functino called - 99
+2024-07-09 15:22:39,646 | server.py | MainThread | [ERROR] - This is a debug message from server1.py
+2024-07-09 15:22:39,646 | server.py | MainThread | [INFO] - This is an info message from server.py
+2024-07-09 15:22:39,646 | server.py | MainThread | [INFO] - _____________________________________________
+2024-07-09 15:22:39,646 | main.py | MainThread | [ERROR] - This is a debug message from main.py
+2024-07-09 15:22:39,646 | main.py | MainThread | [INFO] - This is an info message from main.py
+2024-07-09 15:22:40,658 | server.py | MainThread | [ERROR] - This is a debug message from server2.py
+2024-07-09 15:22:40,658 | server.py | MainThread | [INFO] - This is an info message from server.py
+2024-07-09 15:22:40,658 | server.py | MainThread | [INFO] - _____________________________________________
+2024-07-09 15:22:40,658 | main.py | MainThread | [ERROR] - This is a debug message from main.py
+2024-07-09 15:22:40,658 | main.py | MainThread | [INFO] - This is an info message from main.py
+2024-07-09 15:22:41,674 | server.py | MainThread | [ERROR] - This is a debug message from server3.py
+2024-07-09 15:22:41,674 | server.py | MainThread | [INFO] - This is an info message from server.py
+2024-07-09 15:22:41,674 | server.py | MainThread | [INFO] - _____________________________________________
+2024-07-09 15:22:41,674 | main.py | MainThread | [ERROR] - This is a debug message from main.py
+2024-07-09 15:22:41,674 | main.py | MainThread | [INFO] - This is an info message from main.py
+2024-07-09 15:22:42,688 | server.py | MainThread | [ERROR] - This is a debug message from server4.py
+2024-07-09 15:22:42,688 | server.py | MainThread | [INFO] - This is an info message from server.py
+2024-07-09 15:22:42,688 | server.py | MainThread | [INFO] - _____________________________________________
+2024-07-09 15:22:42,688 | main.py | MainThread | [ERROR] - This is a debug message from main.py
+2024-07-09 15:22:42,688 | main.py | MainThread | [INFO] - This is an info message from main.py
+2024-07-09 15:22:43,689 | server.py | MainThread | [ERROR] - This is a debug message from server5.py
+2024-07-09 15:22:43,689 | server.py | MainThread | [INFO] - This is an info message from server.py
+2024-07-09 15:22:43,689 | server.py | MainThread | [INFO] - _____________________________________________
+2024-07-09 15:22:43,689 | main.py | MainThread | [ERROR] - This is a debug message from main.py
+2024-07-09 15:22:43,690 | main.py | MainThread | [INFO] - This is an info message from main.py
+2024-07-09 15:22:44,691 | server.py | MainThread | [ERROR] - This is a debug message from server6.py
+2024-07-09 15:22:44,691 | server.py | MainThread | [INFO] - This is an info message from server.py
+2024-07-09 15:22:44,691 | server.py | MainThread | [INFO] - _____________________________________________
+2024-07-09 15:22:44,692 | main.py | MainThread | [ERROR] - This is a debug message from main.py
+2024-07-09 15:22:44,692 | main.py | MainThread | [INFO] - This is an info message from main.py
+2024-07-09 15:22:45,693 | server.py | MainThread | [ERROR] - This is a debug message from server7.py
+2024-07-09 15:22:45,694 | server.py | MainThread | [INFO] - This is an info message from server.py
+2024-07-09 15:22:45,694 | server.py | MainThread | [INFO] - _____________________________________________
+2024-07-09 15:22:45,694 | main.py | MainThread | [ERROR] - This is a debug message from main.py
+2024-07-09 15:22:45,694 | main.py | MainThread | [INFO] - This is an info message from main.py
+2024-07-09 15:22:46,708 | server.py | MainThread | [ERROR] - This is a debug message from server8.py
+2024-07-09 15:22:46,708 | server.py | MainThread | [INFO] - This is an info message from server.py
+2024-07-09 15:22:46,708 | server.py | MainThread | [INFO] - _____________________________________________
+2024-07-09 15:22:46,708 | main.py | MainThread | [ERROR] - This is a debug message from main.py
+2024-07-09 15:22:46,708 | main.py | MainThread | [INFO] - This is an info message from main.py
+2024-07-09 15:22:47,718 | server.py | MainThread | [ERROR] - This is a debug message from server9.py
+2024-07-09 15:22:47,718 | server.py | MainThread | [INFO] - This is an info message from server.py
+2024-07-09 15:22:47,718 | server.py | MainThread | [INFO] - _____________________________________________
+2024-07-09 15:22:47,718 | main.py | MainThread | [ERROR] - This is a debug message from main.py
+2024-07-09 15:22:47,718 | main.py | MainThread | [INFO] - This is an info message from main.py
+2024-07-09 15:22:48,732 | server.py | MainThread | [ERROR] - This is a debug message from server10.py
+2024-07-09 15:22:48,732 | server.py | MainThread | [INFO] - This is an info message from server.py
+2024-07-09 15:22:48,732 | server.py | MainThread | [INFO] - _____________________________________________
+2024-07-09 15:22:48,732 | main.py | MainThread | [ERROR] - This is a debug message from main.py
+2024-07-09 15:22:48,733 | main.py | MainThread | [INFO] - This is an info message from main.py
+2024-07-09 15:22:49,739 | server.py | MainThread | [ERROR] - This is a debug message from server11.py
+2024-07-09 15:22:49,739 | server.py | MainThread | [INFO] - This is an info message from server.py
+2024-07-09 15:22:49,739 | server.py | MainThread | [INFO] - _____________________________________________
+2024-07-09 15:22:49,739 | main.py | MainThread | [ERROR] - This is a debug message from main.py
+2024-07-09 15:22:49,739 | main.py | MainThread | [INFO] - This is an info message from main.py
+2024-07-09 15:22:50,750 | server.py | MainThread | [ERROR] - This is a debug message from server12.py
+2024-07-09 15:22:50,750 | server.py | MainThread | [INFO] - This is an info message from server.py
+2024-07-09 15:22:50,750 | server.py | MainThread | [INFO] - _____________________________________________
+2024-07-09 15:22:50,750 | main.py | MainThread | [ERROR] - This is a debug message from main.py
+2024-07-09 15:22:50,750 | main.py | MainThread | [INFO] - This is an info message from main.py
+2024-07-09 15:22:51,764 | server.py | MainThread | [ERROR] - This is a debug message from server13.py
+2024-07-09 15:22:51,764 | server.py | MainThread | [INFO] - This is an info message from server.py
+2024-07-09 15:22:51,764 | server.py | MainThread | [INFO] - _____________________________________________
+2024-07-09 15:22:51,764 | main.py | MainThread | [ERROR] - This is a debug message from main.py
+2024-07-09 15:22:51,764 | main.py | MainThread | [INFO] - This is an info message from main.py

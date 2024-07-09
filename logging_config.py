@@ -3,8 +3,6 @@ from logging.handlers import TimedRotatingFileHandler
 import os
 from datetime import datetime
 
-
-
 def setup_logger():
     # Create a logs directory if it doesn't exist
     if not os.path.exists('logs'):

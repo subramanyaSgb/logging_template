@@ -1,0 +1,840 @@
+2024-07-09 15:10:21,365 - server.py - ERROR - This is a debug message from server0.py
+2024-07-09 15:10:21,365 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:21,365 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:21,365 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:21,365 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:22,373 - server.py - ERROR - This is a debug message from server1.py
+2024-07-09 15:10:22,373 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:22,464 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:22,464 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:22,464 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:23,464 - server.py - ERROR - This is a debug message from server2.py
+2024-07-09 15:10:23,464 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:23,464 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:23,464 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:23,464 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:24,476 - server.py - ERROR - This is a debug message from server3.py
+2024-07-09 15:10:24,476 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:24,476 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:24,476 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:24,476 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:25,487 - server.py - ERROR - This is a debug message from server4.py
+2024-07-09 15:10:25,487 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:25,487 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:25,488 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:25,488 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:26,494 - server.py - ERROR - This is a debug message from server5.py
+2024-07-09 15:10:26,494 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:26,494 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:26,494 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:26,494 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:27,509 - server.py - ERROR - This is a debug message from server6.py
+2024-07-09 15:10:27,509 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:27,509 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:27,509 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:27,509 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:28,520 - server.py - ERROR - This is a debug message from server7.py
+2024-07-09 15:10:28,520 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:28,520 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:28,520 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:28,520 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:29,533 - server.py - ERROR - This is a debug message from server8.py
+2024-07-09 15:10:29,533 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:29,533 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:29,533 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:29,533 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:30,545 - server.py - ERROR - This is a debug message from server9.py
+2024-07-09 15:10:30,546 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:30,546 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:30,546 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:30,546 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:31,559 - server.py - ERROR - This is a debug message from server10.py
+2024-07-09 15:10:31,559 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:31,559 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:31,559 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:31,559 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:32,567 - server.py - ERROR - This is a debug message from server11.py
+2024-07-09 15:10:32,567 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:32,567 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:32,567 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:32,567 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:33,578 - server.py - ERROR - This is a debug message from server12.py
+2024-07-09 15:10:33,578 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:33,578 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:33,578 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:33,578 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:34,593 - server.py - ERROR - This is a debug message from server13.py
+2024-07-09 15:10:34,593 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:34,593 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:34,593 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:34,593 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:35,608 - server.py - ERROR - This is a debug message from server14.py
+2024-07-09 15:10:35,608 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:35,608 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:35,608 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:35,608 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:36,623 - server.py - ERROR - This is a debug message from server15.py
+2024-07-09 15:10:36,623 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:36,623 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:36,623 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:36,623 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:37,636 - server.py - ERROR - This is a debug message from server16.py
+2024-07-09 15:10:37,636 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:37,636 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:37,636 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:37,636 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:38,650 - server.py - ERROR - This is a debug message from server17.py
+2024-07-09 15:10:38,650 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:38,650 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:38,650 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:38,650 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:39,664 - server.py - ERROR - This is a debug message from server18.py
+2024-07-09 15:10:39,664 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:39,664 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:39,664 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:39,664 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:40,678 - server.py - ERROR - This is a debug message from server19.py
+2024-07-09 15:10:40,678 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:40,678 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:40,678 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:40,679 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:41,691 - server.py - ERROR - This is a debug message from server20.py
+2024-07-09 15:10:41,691 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:41,691 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:41,691 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:41,691 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:42,701 - server.py - ERROR - This is a debug message from server21.py
+2024-07-09 15:10:42,701 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:42,701 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:42,701 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:42,701 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:43,713 - server.py - ERROR - This is a debug message from server22.py
+2024-07-09 15:10:43,713 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:43,713 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:43,713 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:43,713 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:44,723 - server.py - ERROR - This is a debug message from server23.py
+2024-07-09 15:10:44,723 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:44,723 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:44,723 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:44,723 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:45,737 - server.py - ERROR - This is a debug message from server24.py
+2024-07-09 15:10:45,737 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:45,737 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:45,737 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:45,737 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:46,751 - server.py - ERROR - This is a debug message from server25.py
+2024-07-09 15:10:46,751 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:46,751 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:46,751 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:46,751 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:47,755 - server.py - ERROR - This is a debug message from server26.py
+2024-07-09 15:10:47,755 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:47,755 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:47,755 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:47,755 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:48,769 - server.py - ERROR - This is a debug message from server27.py
+2024-07-09 15:10:48,769 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:48,769 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:48,769 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:48,769 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:49,779 - server.py - ERROR - This is a debug message from server28.py
+2024-07-09 15:10:49,779 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:49,779 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:49,779 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:49,779 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:50,792 - server.py - ERROR - This is a debug message from server29.py
+2024-07-09 15:10:50,792 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:50,792 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:50,792 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:50,792 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:51,803 - server.py - ERROR - This is a debug message from server30.py
+2024-07-09 15:10:51,803 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:51,803 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:51,803 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:51,803 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:52,817 - server.py - ERROR - This is a debug message from server31.py
+2024-07-09 15:10:52,817 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:52,817 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:52,817 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:52,817 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:53,832 - server.py - ERROR - This is a debug message from server32.py
+2024-07-09 15:10:54,070 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:54,240 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:54,240 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:54,241 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:55,255 - server.py - ERROR - This is a debug message from server33.py
+2024-07-09 15:10:55,610 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:55,610 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:55,610 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:55,610 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:56,613 - server.py - ERROR - This is a debug message from server34.py
+2024-07-09 15:10:57,116 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:57,116 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:57,116 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:57,116 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:58,126 - server.py - ERROR - This is a debug message from server35.py
+2024-07-09 15:10:58,126 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:58,126 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:58,126 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:58,126 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:10:59,132 - server.py - ERROR - This is a debug message from server36.py
+2024-07-09 15:10:59,132 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:10:59,132 - server.py - INFO - _____________________________________________
+2024-07-09 15:10:59,132 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:10:59,132 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:00,135 - server.py - ERROR - This is a debug message from server37.py
+2024-07-09 15:11:00,135 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:00,135 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:00,135 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:00,135 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:01,136 - server.py - ERROR - This is a debug message from server38.py
+2024-07-09 15:11:01,136 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:01,136 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:01,136 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:01,136 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:02,152 - server.py - ERROR - This is a debug message from server39.py
+2024-07-09 15:11:02,152 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:02,152 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:02,152 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:02,152 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:03,168 - server.py - ERROR - This is a debug message from server40.py
+2024-07-09 15:11:03,168 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:03,168 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:03,168 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:03,168 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:04,181 - server.py - ERROR - This is a debug message from server41.py
+2024-07-09 15:11:04,181 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:04,181 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:04,181 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:04,181 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:05,197 - server.py - ERROR - This is a debug message from server42.py
+2024-07-09 15:11:05,197 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:05,197 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:05,197 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:05,197 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:06,211 - server.py - ERROR - This is a debug message from server43.py
+2024-07-09 15:11:06,385 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:06,385 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:06,385 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:06,386 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:07,397 - server.py - ERROR - This is a debug message from server44.py
+2024-07-09 15:11:07,815 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:07,815 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:07,815 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:07,815 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:08,816 - server.py - ERROR - This is a debug message from server45.py
+2024-07-09 15:11:09,112 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:09,112 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:09,112 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:09,112 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:10,125 - server.py - ERROR - This is a debug message from server46.py
+2024-07-09 15:11:11,366 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:11,366 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:11,366 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:11,366 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:12,367 - server.py - ERROR - This is a debug message from server47.py
+2024-07-09 15:11:12,367 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:12,367 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:12,367 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:12,368 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:13,381 - server.py - ERROR - This is a debug message from server48.py
+2024-07-09 15:11:13,678 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:13,678 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:13,678 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:13,678 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:14,684 - server.py - ERROR - This is a debug message from server49.py
+2024-07-09 15:11:14,684 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:14,684 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:14,684 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:14,684 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:15,694 - server.py - ERROR - This is a debug message from server50.py
+2024-07-09 15:11:15,694 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:15,694 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:15,694 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:15,694 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:16,709 - server.py - ERROR - This is a debug message from server51.py
+2024-07-09 15:11:16,709 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:16,709 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:16,709 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:16,710 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:17,724 - server.py - ERROR - This is a debug message from server52.py
+2024-07-09 15:11:17,724 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:17,724 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:17,724 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:17,724 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:18,733 - server.py - ERROR - This is a debug message from server53.py
+2024-07-09 15:11:18,733 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:18,733 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:18,733 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:18,733 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:19,744 - server.py - ERROR - This is a debug message from server54.py
+2024-07-09 15:11:19,756 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:19,756 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:19,756 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:19,756 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:20,761 - server.py - ERROR - This is a debug message from server55.py
+2024-07-09 15:11:20,761 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:20,761 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:20,761 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:20,761 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:21,774 - server.py - ERROR - This is a debug message from server56.py
+2024-07-09 15:11:21,774 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:21,774 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:21,774 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:21,774 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:22,789 - server.py - ERROR - This is a debug message from server57.py
+2024-07-09 15:11:23,016 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:23,016 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:23,016 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:23,016 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:24,021 - server.py - ERROR - This is a debug message from server58.py
+2024-07-09 15:11:24,021 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:24,021 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:24,021 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:24,022 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:25,024 - server.py - ERROR - This is a debug message from server59.py
+2024-07-09 15:11:25,024 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:25,024 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:25,024 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:25,024 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:26,026 - server.py - ERROR - This is a debug message from server60.py
+2024-07-09 15:11:26,026 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:26,026 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:26,026 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:26,026 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:27,042 - server.py - ERROR - This is a debug message from server61.py
+2024-07-09 15:11:27,042 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:27,042 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:27,042 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:27,042 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:28,044 - server.py - ERROR - This is a debug message from server62.py
+2024-07-09 15:11:28,044 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:28,044 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:28,044 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:28,044 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:29,055 - server.py - ERROR - This is a debug message from server63.py
+2024-07-09 15:11:29,055 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:29,055 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:29,055 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:29,055 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:30,068 - server.py - ERROR - This is a debug message from server64.py
+2024-07-09 15:11:30,068 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:30,068 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:30,068 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:30,068 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:31,083 - server.py - ERROR - This is a debug message from server65.py
+2024-07-09 15:11:31,083 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:31,083 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:31,083 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:31,083 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:32,099 - server.py - ERROR - This is a debug message from server66.py
+2024-07-09 15:11:32,099 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:32,099 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:32,099 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:32,099 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:33,110 - server.py - ERROR - This is a debug message from server67.py
+2024-07-09 15:11:33,110 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:33,110 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:33,110 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:33,110 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:34,113 - server.py - ERROR - This is a debug message from server68.py
+2024-07-09 15:11:34,222 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:34,222 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:34,222 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:34,222 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:35,236 - server.py - ERROR - This is a debug message from server69.py
+2024-07-09 15:11:35,236 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:35,236 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:35,236 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:35,236 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:36,260 - server.py - ERROR - This is a debug message from server70.py
+2024-07-09 15:11:36,260 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:36,260 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:36,260 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:36,260 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:37,264 - server.py - ERROR - This is a debug message from server71.py
+2024-07-09 15:11:37,264 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:37,264 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:37,264 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:37,264 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:38,277 - server.py - ERROR - This is a debug message from server72.py
+2024-07-09 15:11:38,277 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:38,277 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:38,277 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:38,277 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:39,291 - server.py - ERROR - This is a debug message from server73.py
+2024-07-09 15:11:39,291 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:39,291 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:39,291 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:39,291 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:40,302 - server.py - ERROR - This is a debug message from server74.py
+2024-07-09 15:11:40,355 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:40,355 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:40,355 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:40,355 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:41,364 - server.py - ERROR - This is a debug message from server75.py
+2024-07-09 15:11:41,364 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:41,364 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:41,364 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:41,364 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:42,376 - server.py - ERROR - This is a debug message from server76.py
+2024-07-09 15:11:42,376 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:42,376 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:42,376 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:42,376 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:43,390 - server.py - ERROR - This is a debug message from server77.py
+2024-07-09 15:11:43,836 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:43,836 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:43,836 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:43,836 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:44,842 - server.py - ERROR - This is a debug message from server78.py
+2024-07-09 15:11:44,842 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:44,842 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:44,842 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:44,842 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:45,857 - server.py - ERROR - This is a debug message from server79.py
+2024-07-09 15:11:45,908 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:45,908 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:45,908 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:45,908 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:46,918 - server.py - ERROR - This is a debug message from server80.py
+2024-07-09 15:11:46,918 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:46,918 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:46,918 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:46,918 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:47,931 - server.py - ERROR - This is a debug message from server81.py
+2024-07-09 15:11:47,931 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:47,931 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:47,931 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:47,931 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:48,946 - server.py - ERROR - This is a debug message from server82.py
+2024-07-09 15:11:48,946 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:48,946 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:48,946 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:48,946 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:49,962 - server.py - ERROR - This is a debug message from server83.py
+2024-07-09 15:11:49,962 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:49,962 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:49,962 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:49,962 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:50,975 - server.py - ERROR - This is a debug message from server84.py
+2024-07-09 15:11:51,855 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:51,855 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:51,855 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:51,855 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:52,863 - server.py - ERROR - This is a debug message from server85.py
+2024-07-09 15:11:52,863 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:52,863 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:52,863 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:52,863 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:53,876 - server.py - ERROR - This is a debug message from server86.py
+2024-07-09 15:11:53,876 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:53,876 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:53,876 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:53,876 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:54,891 - server.py - ERROR - This is a debug message from server87.py
+2024-07-09 15:11:54,891 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:54,891 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:54,891 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:54,891 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:55,901 - server.py - ERROR - This is a debug message from server88.py
+2024-07-09 15:11:55,901 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:55,901 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:55,901 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:55,901 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:56,903 - server.py - ERROR - This is a debug message from server89.py
+2024-07-09 15:11:56,903 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:56,903 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:56,903 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:56,903 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:57,919 - server.py - ERROR - This is a debug message from server90.py
+2024-07-09 15:11:57,919 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:57,919 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:57,919 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:57,919 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:58,934 - server.py - ERROR - This is a debug message from server91.py
+2024-07-09 15:11:58,934 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:58,934 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:58,934 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:58,934 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:11:59,946 - server.py - ERROR - This is a debug message from server92.py
+2024-07-09 15:11:59,946 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:11:59,946 - server.py - INFO - _____________________________________________
+2024-07-09 15:11:59,946 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:11:59,946 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:00,960 - server.py - ERROR - This is a debug message from server93.py
+2024-07-09 15:12:01,308 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:01,308 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:01,308 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:01,308 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:02,316 - server.py - ERROR - This is a debug message from server94.py
+2024-07-09 15:12:02,316 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:02,316 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:02,316 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:02,316 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:03,330 - server.py - ERROR - This is a debug message from server95.py
+2024-07-09 15:12:03,330 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:03,330 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:03,330 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:03,330 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:04,332 - server.py - ERROR - This is a debug message from server96.py
+2024-07-09 15:12:04,332 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:04,333 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:04,333 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:04,333 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:05,333 - server.py - ERROR - This is a debug message from server97.py
+2024-07-09 15:12:05,333 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:05,333 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:05,333 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:05,333 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:06,334 - server.py - ERROR - This is a debug message from server98.py
+2024-07-09 15:12:06,334 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:06,334 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:06,334 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:06,334 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:07,350 - server.py - ERROR - This is a debug message from server99.py
+2024-07-09 15:12:08,136 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:08,483 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:08,483 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:08,483 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:09,486 - server.py - ERROR - This is a debug message from server100.py
+2024-07-09 15:12:09,486 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:09,486 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:09,486 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:09,486 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:10,494 - server.py - ERROR - This is a debug message from server101.py
+2024-07-09 15:12:10,494 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:10,494 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:10,494 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:10,494 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:11,506 - server.py - ERROR - This is a debug message from server102.py
+2024-07-09 15:12:11,664 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:11,664 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:11,665 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:11,665 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:12,667 - server.py - ERROR - This is a debug message from server103.py
+2024-07-09 15:12:12,667 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:12,667 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:12,667 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:12,667 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:13,681 - server.py - ERROR - This is a debug message from server104.py
+2024-07-09 15:12:13,681 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:13,681 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:13,681 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:13,681 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:14,681 - server.py - ERROR - This is a debug message from server105.py
+2024-07-09 15:12:14,681 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:14,681 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:14,681 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:14,681 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:15,695 - server.py - ERROR - This is a debug message from server106.py
+2024-07-09 15:12:15,695 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:15,695 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:15,695 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:15,695 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:16,707 - server.py - ERROR - This is a debug message from server107.py
+2024-07-09 15:12:16,707 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:16,707 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:16,707 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:16,707 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:17,715 - server.py - ERROR - This is a debug message from server108.py
+2024-07-09 15:12:17,715 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:17,715 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:17,715 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:17,715 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:18,731 - server.py - ERROR - This is a debug message from server109.py
+2024-07-09 15:12:18,731 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:18,731 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:18,731 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:18,731 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:19,734 - server.py - ERROR - This is a debug message from server110.py
+2024-07-09 15:12:19,734 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:19,734 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:19,734 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:19,734 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:20,738 - server.py - ERROR - This is a debug message from server111.py
+2024-07-09 15:12:20,738 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:20,738 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:20,738 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:20,738 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:21,748 - server.py - ERROR - This is a debug message from server112.py
+2024-07-09 15:12:21,748 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:21,748 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:21,748 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:21,748 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:22,758 - server.py - ERROR - This is a debug message from server113.py
+2024-07-09 15:12:23,265 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:23,265 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:23,265 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:23,265 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:24,277 - server.py - ERROR - This is a debug message from server114.py
+2024-07-09 15:12:24,277 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:24,277 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:24,277 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:24,277 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:25,292 - server.py - ERROR - This is a debug message from server115.py
+2024-07-09 15:12:25,292 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:25,292 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:25,292 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:25,292 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:26,307 - server.py - ERROR - This is a debug message from server116.py
+2024-07-09 15:12:26,307 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:26,307 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:26,307 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:26,307 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:27,321 - server.py - ERROR - This is a debug message from server117.py
+2024-07-09 15:12:27,321 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:27,321 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:27,321 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:27,321 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:28,333 - server.py - ERROR - This is a debug message from server118.py
+2024-07-09 15:12:28,872 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:28,872 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:28,872 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:28,872 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:29,887 - server.py - ERROR - This is a debug message from server119.py
+2024-07-09 15:12:29,887 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:29,887 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:29,887 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:29,887 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:30,891 - server.py - ERROR - This is a debug message from server120.py
+2024-07-09 15:12:30,891 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:30,892 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:30,892 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:30,892 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:31,901 - server.py - ERROR - This is a debug message from server121.py
+2024-07-09 15:12:32,612 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:32,612 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:32,612 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:32,612 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:33,627 - server.py - ERROR - This is a debug message from server122.py
+2024-07-09 15:12:33,627 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:33,627 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:33,627 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:33,627 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:34,632 - server.py - ERROR - This is a debug message from server123.py
+2024-07-09 15:12:34,632 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:34,632 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:34,632 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:34,632 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:35,639 - server.py - ERROR - This is a debug message from server124.py
+2024-07-09 15:12:35,639 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:35,639 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:35,639 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:35,639 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:36,654 - server.py - ERROR - This is a debug message from server125.py
+2024-07-09 15:12:36,654 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:36,654 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:36,654 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:36,654 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:37,665 - server.py - ERROR - This is a debug message from server126.py
+2024-07-09 15:12:37,665 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:37,665 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:37,665 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:37,665 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:38,676 - server.py - ERROR - This is a debug message from server127.py
+2024-07-09 15:12:39,352 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:39,352 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:39,352 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:39,352 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:40,359 - server.py - ERROR - This is a debug message from server128.py
+2024-07-09 15:12:40,359 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:40,359 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:40,359 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:40,359 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:41,362 - server.py - ERROR - This is a debug message from server129.py
+2024-07-09 15:12:41,362 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:41,362 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:41,362 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:41,362 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:42,372 - server.py - ERROR - This is a debug message from server130.py
+2024-07-09 15:12:42,372 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:42,372 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:42,372 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:42,372 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:43,380 - server.py - ERROR - This is a debug message from server131.py
+2024-07-09 15:12:43,380 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:43,380 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:43,380 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:43,380 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:44,394 - server.py - ERROR - This is a debug message from server132.py
+2024-07-09 15:12:44,394 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:44,394 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:44,394 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:44,394 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:45,397 - server.py - ERROR - This is a debug message from server133.py
+2024-07-09 15:12:45,397 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:45,397 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:45,397 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:45,398 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:46,411 - server.py - ERROR - This is a debug message from server134.py
+2024-07-09 15:12:46,411 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:46,411 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:46,411 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:46,411 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:47,422 - server.py - ERROR - This is a debug message from server135.py
+2024-07-09 15:12:47,422 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:47,422 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:47,422 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:47,423 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:48,435 - server.py - ERROR - This is a debug message from server136.py
+2024-07-09 15:12:48,435 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:48,435 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:48,435 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:48,435 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:49,448 - server.py - ERROR - This is a debug message from server137.py
+2024-07-09 15:12:49,448 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:49,448 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:49,448 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:49,449 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:50,461 - server.py - ERROR - This is a debug message from server138.py
+2024-07-09 15:12:50,461 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:50,461 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:50,461 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:50,461 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:51,475 - server.py - ERROR - This is a debug message from server139.py
+2024-07-09 15:12:51,799 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:51,799 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:51,799 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:51,799 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:52,803 - server.py - ERROR - This is a debug message from server140.py
+2024-07-09 15:12:52,803 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:52,803 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:52,803 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:52,803 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:53,813 - server.py - ERROR - This is a debug message from server141.py
+2024-07-09 15:12:54,632 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:54,982 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:54,982 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:54,982 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:55,996 - server.py - ERROR - This is a debug message from server142.py
+2024-07-09 15:12:55,996 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:55,996 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:55,996 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:55,997 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:57,010 - server.py - ERROR - This is a debug message from server143.py
+2024-07-09 15:12:57,010 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:57,010 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:57,010 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:57,010 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:58,025 - server.py - ERROR - This is a debug message from server144.py
+2024-07-09 15:12:58,186 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:58,186 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:58,186 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:58,186 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:12:59,201 - server.py - ERROR - This is a debug message from server145.py
+2024-07-09 15:12:59,201 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:12:59,201 - server.py - INFO - _____________________________________________
+2024-07-09 15:12:59,201 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:12:59,201 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:00,213 - server.py - ERROR - This is a debug message from server146.py
+2024-07-09 15:13:00,213 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:00,213 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:00,213 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:00,213 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:01,226 - server.py - ERROR - This is a debug message from server147.py
+2024-07-09 15:13:01,226 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:01,226 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:01,226 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:01,226 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:02,239 - server.py - ERROR - This is a debug message from server148.py
+2024-07-09 15:13:02,239 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:02,239 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:02,239 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:02,239 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:03,253 - server.py - ERROR - This is a debug message from server149.py
+2024-07-09 15:13:04,235 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:04,235 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:04,235 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:04,235 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:05,243 - server.py - ERROR - This is a debug message from server150.py
+2024-07-09 15:13:05,243 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:05,243 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:05,243 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:05,243 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:06,258 - server.py - ERROR - This is a debug message from server151.py
+2024-07-09 15:13:06,258 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:06,258 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:06,258 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:06,258 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:07,269 - server.py - ERROR - This is a debug message from server152.py
+2024-07-09 15:13:07,269 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:07,269 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:07,269 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:07,269 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:08,284 - server.py - ERROR - This is a debug message from server153.py
+2024-07-09 15:13:08,284 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:08,284 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:08,284 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:08,284 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:09,285 - server.py - ERROR - This is a debug message from server154.py
+2024-07-09 15:13:09,285 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:09,285 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:09,285 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:09,286 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:10,297 - server.py - ERROR - This is a debug message from server155.py
+2024-07-09 15:13:10,297 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:10,297 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:10,297 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:10,297 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:11,310 - server.py - ERROR - This is a debug message from server156.py
+2024-07-09 15:13:11,310 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:11,310 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:11,310 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:11,310 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:12,318 - server.py - ERROR - This is a debug message from server157.py
+2024-07-09 15:13:12,318 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:12,318 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:12,318 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:12,318 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:13,332 - server.py - ERROR - This is a debug message from server158.py
+2024-07-09 15:13:13,404 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:13,404 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:13,404 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:13,404 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:14,408 - server.py - ERROR - This is a debug message from server159.py
+2024-07-09 15:13:14,408 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:14,408 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:14,408 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:14,408 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:15,421 - server.py - ERROR - This is a debug message from server160.py
+2024-07-09 15:13:15,421 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:15,421 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:15,421 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:15,421 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:16,434 - server.py - ERROR - This is a debug message from server161.py
+2024-07-09 15:13:16,434 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:16,434 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:16,434 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:16,434 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:17,445 - server.py - ERROR - This is a debug message from server162.py
+2024-07-09 15:13:17,445 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:17,445 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:17,445 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:17,445 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:18,447 - server.py - ERROR - This is a debug message from server163.py
+2024-07-09 15:13:19,094 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:19,297 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:19,298 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:19,298 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:20,307 - server.py - ERROR - This is a debug message from server164.py
+2024-07-09 15:13:20,307 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:20,307 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:20,307 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:20,308 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:21,319 - server.py - ERROR - This is a debug message from server165.py
+2024-07-09 15:13:21,319 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:21,319 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:21,319 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:21,319 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:22,331 - server.py - ERROR - This is a debug message from server166.py
+2024-07-09 15:13:22,674 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:22,674 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:22,674 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:22,674 - main.py - INFO - This is an info message from main.py
+2024-07-09 15:13:23,674 - server.py - ERROR - This is a debug message from server167.py
+2024-07-09 15:13:24,660 - server.py - INFO - This is an info message from server.py
+2024-07-09 15:13:24,661 - server.py - INFO - _____________________________________________
+2024-07-09 15:13:24,661 - main.py - ERROR - This is a debug message from main.py
+2024-07-09 15:13:24,661 - main.py - INFO - This is an info message from main.py
